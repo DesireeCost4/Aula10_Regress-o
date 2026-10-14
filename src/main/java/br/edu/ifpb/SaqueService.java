@@ -7,7 +7,7 @@ public class SaqueService {
         //maior igual a 10
 
         return valor >= 10
-                && valor <= 2000
+                && valor <= 3000
                 && valor %10 ==0;
     };
 
